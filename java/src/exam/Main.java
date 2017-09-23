@@ -11,7 +11,7 @@ public class Main {
 //        for (int i = 0; i < string.length(); ++ i){
 //            System.out.println((int)string.charAt(i));
 //        }
-        ITestRun iTestRun = new Array2FindTarget();
+        ITestRun iTestRun = new MeiTuanTest1();
         iTestRun.run();
     }
 }
